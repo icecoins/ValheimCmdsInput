@@ -14,3 +14,6 @@
 
 窗口属性、生成代码都可以在代码里自行设置
 ![image](https://raw.githubusercontent.com/icecoins/ValheimCmdsInput/main/3.png)
+
+这样就可以实现诸神黄昏大混战惹，巨魔，给我杀！
+![image](https://raw.githubusercontent.com/icecoins/ValheimCmdsInput/main/4.png)
