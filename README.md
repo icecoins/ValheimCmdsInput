@@ -20,3 +20,5 @@
 
 这样就可以实现诸神黄昏大混战惹，巨魔，给我杀！
 ![image](https://raw.githubusercontent.com/icecoins/ValheimCmdsInput/main/4.png)
+
+巨型竞技场建造中（0/1）
